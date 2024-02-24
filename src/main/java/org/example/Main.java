@@ -1,6 +1,10 @@
 package org.example;
 import  io.restassured.RestAssured;
+import org.testng.Assert;
+
 import static io.restassured.RestAssured.*;
+import static org.hamcrest.Matchers.equalTo;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -14,6 +18,7 @@ public class Main {
    .header( "Content-Type","application/json")
    .when()
    .get("/parabank/services_proxy/bank/customers/20093/accounts")
-   .then().log().all().assertThat().statusCode(200);
+   .then().log().all().assertThat().statusCode(200).body("type",equalTo("CHECKING"));
+
     }
 }
