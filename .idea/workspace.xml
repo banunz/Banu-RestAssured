@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0848c52b-a011-47eb-b956-aa98f9240b52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/e2e/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/e2e/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/e2e/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/e2e/GetCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/e2e/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/e2e/ParaBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/e2e/webAutomation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,12 +69,17 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/banun/Dev/Banu-dev/apiproject/untitled/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -97,7 +117,7 @@
       <updated>1708571900171</updated>
       <workItem from="1708571901580" duration="2757000" />
       <workItem from="1708652541861" duration="3705000" />
-      <workItem from="1708656689333" duration="2177000" />
+      <workItem from="1708656689333" duration="17931000" />
     </task>
     <servers />
   </component>
